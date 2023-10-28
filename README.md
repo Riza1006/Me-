@@ -1,6 +1,4 @@
-<html>
-    <head>
-        <title>Me?</title>
+Me?
     </head>
     <body>
         <h1>My heart</h1>
